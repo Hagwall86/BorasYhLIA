@@ -1,1 +1,5 @@
-console.log("hej hej");
+'use strict'
+
+import footer from "./footer.js";
+
+footer();
